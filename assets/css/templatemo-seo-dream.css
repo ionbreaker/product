@@ -981,6 +981,12 @@ Features Style
 .second-feature:hover .icon {
   background-image: url(../images/features-icon-white-02.png);
 }
+.third-feature:hover .icon {
+  background-image: url(../images/features-icon-white-03.png);
+}
+.fourth-feature:hover .icon {
+  background-image: url(../images/features-icon-white-04.png);
+}
 
 .features-item .number h6 {
   background-repeat: no-repeat;
@@ -1019,6 +1025,14 @@ Features Style
 
 .second-feature .icon {
   background-image: url(../images/features-icon-black-02.png);
+}
+
+.third-feature .icon {
+  background-image: url(../images/features-icon-black-03.png);
+}
+
+.fourth-feature .icon {
+  background-image: url(../images/features-icon-black-04.png);
 }
 
 .features-item .icon {
